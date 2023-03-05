@@ -1,0 +1,1 @@
+chrome-extension://pmnhcgfcafcnkbengdcanjablaabjplo/static/js/content-widget.js
